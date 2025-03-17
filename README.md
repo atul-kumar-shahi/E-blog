@@ -30,11 +30,20 @@ Here are some visuals of the app's interface:
 ### Sign-In Page  
 ![Sign-In Page](assets/images/signIn.jpg)  
 
-### Post View  
-![Post View](assets/images/post_view.png)  
+### Sign-Up Page 
+![Sign-Up Page](assets/images/signUp.jpg)  
 
-### Home Page  
-![Homepage](assets/images/homepage.png)  
+### Email Verification is required for further proceeding 
+![verfify email](assets/images/emailCon.jpg) 
+
+### All Blog Page where the blogs are fetched from supabase  
+![All-Blog Page](assets/images/allBlogs.jpg)  
+
+### Add new Blog page and upload images for the blog
+![New Blog page](assets/images/blogUpload.jpg) 
+
+### You can tap on any of the blog and read blog 
+![Blog page](assets/images/blogPage.jpg) 
 
 
 ## Setup Instructions
