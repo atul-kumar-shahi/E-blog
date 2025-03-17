@@ -24,6 +24,19 @@ Welcome to the Blog App! This app allows users to create and browse blog posts w
   - Syncs blog data with Supabase when an internet connection is restored.
 - **Responsive UI:** Ensures smooth experience on mobile and tablet devices.
 
+## Screenshots  
+Here are some visuals of the app's interface:  
+
+### Sign-In Page  
+![Sign-In Page](assets/images/signIn.jpg)  
+
+### Post View  
+![Post View](assets/images/post_view.png)  
+
+### Home Page  
+![Homepage](assets/images/homepage.png)  
+
+
 ## Setup Instructions
 
 1. **Clone the Repository**
@@ -73,10 +86,4 @@ We welcome contributions to improve the Blog App!
 3. Commit your changes: `git commit -m "Add your feature"`.
 4. Push to your branch: `git push origin feature/your-feature-name`.
 5. Open a pull request describing your changes.
-
-## Learning Resources
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
